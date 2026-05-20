@@ -1,0 +1,9 @@
+
+{
+  "name": "Lab In Hands",
+  "description": "AI-Powered Learning, Coding, and Testing Platform with Gamification and Offline Capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
